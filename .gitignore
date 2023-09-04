@@ -1,1 +1,5 @@
 /data
+twitterAPI_secret.py
+scraperAPI_key.py
+accounts.txt
+accounts.db
