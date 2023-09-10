@@ -9,3 +9,4 @@ Keywords for query: 1. "#anzbank" 2. "#anz bank"
 2. Preprocessing data: **preprocess.ipynb**
 3. Sentiment analysis by Stanza: **stanza_analysis.ipynb**
 4. Visualizing: **visualize.ipynb**
+5. Word frequency analysis: **frequency.ipynb**
